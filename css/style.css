@@ -1,0 +1,35 @@
+#wordRecord {
+	font-size: 50px;
+}
+.infobar {
+	
+}
+.infobar a, .infobar p {
+	float: right;
+	margin: 5px;
+}
+
+#guessQuestion {
+	font-size: 45px;
+}
+
+#guessInput {
+	display: block; 
+	margin: 0 auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+#correctAnswer, #note {
+	display: none;
+	text-align: center;
+	font-size: 15px;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
